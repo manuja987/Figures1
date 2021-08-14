@@ -6,7 +6,7 @@ class shape{
     public double height;
     
     void disp(){
-        System.out.println("width of shape="+width+"  "+"height of shape="+height);
+        System.out.println("width="+width+"  "+"height ="+height);
     }
 }
 
